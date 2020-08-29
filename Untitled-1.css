@@ -1,0 +1,29 @@
+html{
+    color:black;
+    text-align:centered;
+    margin:100px;
+    padding:50px
+  }
+  h1{
+    background-color:#999999;
+    font-family:arial,times new roman;
+  }
+  p{
+    font-family:arial;
+    text-align:center;
+  }
+  #image{
+    position:centered;
+    max-width:100%;
+    height:auto;
+  }
+  a{
+    color:black;
+  }
+  
+  body {
+    font-family: system-ui;
+    background: grey;
+    color: black;
+    text-align: center;
+  }
